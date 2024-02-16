@@ -1,7 +1,12 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%World!&animation=blinking&fontColor=2f4f4f)
   </br>
+  <details>
+  <summary>About Me</summary>
+  어쩌구저쩌구 (감추고자 하는 내용)
+  </summary>
+  </details>
   </br>
   
   <!--Java-->
@@ -19,9 +24,16 @@
   </br>
   </br>
 
-  [![Moo-ba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moo-ba)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoo-ba%2Fhit-counter&count_bg=%23D7D5A2&title_bg=%234BEB2C&icon=&icon_color=%23E2E7E1&title=hits&edge_flat=false"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moo-ba&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=C4DFDF&icon_color=85A389&text_color=fff&title_color=85A389&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Moo-ba&show_icons=true&theme=material-palenight&hide_border=true&bg_color=C4DFDF&icon_color=A2CDB0&text_color=fff&title_color=85A389&count_private=true" width=56% />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moo-ba&theme=react-dark&bg_color=C4DFDF&hide_border=true&line=F8F6F4&color=85A389" width=94%/>
+  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
 
